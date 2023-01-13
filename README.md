@@ -1,4 +1,5 @@
-# Contemporary research in minority and diaspora languages of Europe %look no further, you can change those things right here. % \subtitle{} % \BackTitle{} % Change if BackTitle is different from title
+# Contemporary research in minority and diaspora languages of Europe 
+
 ## Publication Info
 - Authors: Matt Coler and Andrew Nevins %use this field for the volume editors
 - Publication Date: not yet published
