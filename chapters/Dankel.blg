@@ -1,0 +1,17 @@
+[0] Config.pm:311> INFO - This is Biber 2.16
+[0] Config.pm:314> INFO - Logfile is 'Dankel.blg'
+[66] biber:340> INFO - === Thu Dec 15, 2022, 14:54:49
+[80] Biber.pm:415> INFO - Reading 'Dankel.bcf'
+[162] Biber.pm:952> INFO - Found 81 citekeys in bib section 0
+[175] Biber.pm:4340> INFO - Processing section 0
+[185] Biber.pm:4531> INFO - Looking for bibtex format file '../localbibliography.bib' for section 0
+[206] bibtex.pm:1689> INFO - LaTeX decoding ...
+[965] bibtex.pm:1494> INFO - Found BibTeX data source '../localbibliography.bib'
+[1255] Utils.pm:395> WARN - legacy year field 'in print' in entry 'RN53' is not an integer - this will probably not sort properly.
+[1479] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1479] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1479] Biber.pm:4168> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'en-US'
+[1479] Biber.pm:4174> INFO - No sort tailoring available for locale 'en-US'
+[1553] bbl.pm:654> INFO - Writing 'Dankel.bbl' with encoding 'UTF-8'
+[1590] bbl.pm:757> INFO - Output to Dankel.bbl
+[1590] Biber.pm:128> INFO - WARNINGS: 1

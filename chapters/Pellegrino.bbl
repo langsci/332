@@ -1,0 +1,1170 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global}
+    \entry{bell1984language}{article}{}
+      \name{author}{1}{}{%
+        {{hash=54b7d8c1de4a6cfab8ab3c06dac49630}{%
+           family={Bell},
+           familyi={B\bibinitperiod},
+           given={Allan},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{54b7d8c1de4a6cfab8ab3c06dac49630}
+      \strng{fullhash}{54b7d8c1de4a6cfab8ab3c06dac49630}
+      \strng{bibnamehash}{54b7d8c1de4a6cfab8ab3c06dac49630}
+      \strng{authorbibnamehash}{54b7d8c1de4a6cfab8ab3c06dac49630}
+      \strng{authornamehash}{54b7d8c1de4a6cfab8ab3c06dac49630}
+      \strng{authorfullhash}{54b7d8c1de4a6cfab8ab3c06dac49630}
+      \field{extraname}{1}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Language in society}
+      \field{number}{2}
+      \field{title}{Language style as audience design}
+      \field{volume}{13}
+      \field{year}{1984}
+      \field{pages}{145\bibrangedash 204}
+      \range{pages}{60}
+    \endentry
+    \entry{bell2001back}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=54b7d8c1de4a6cfab8ab3c06dac49630}{%
+           family={Bell},
+           familyi={B\bibinitperiod},
+           given={Allan},
+           giveni={A\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=cb78fc3ea3df9a33015191a5628f0b1f}{%
+           family={Eckert},
+           familyi={E\bibinitperiod},
+           given={Penelope},
+           giveni={P\bibinitperiod}}}%
+        {{hash=a19ddee84ee1b57962dd1b68b6b60a58}{%
+           family={Rickford},
+           familyi={R\bibinitperiod},
+           given={John\bibnamedelima R.},
+           giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cambridge}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{54b7d8c1de4a6cfab8ab3c06dac49630}
+      \strng{fullhash}{54b7d8c1de4a6cfab8ab3c06dac49630}
+      \strng{bibnamehash}{54b7d8c1de4a6cfab8ab3c06dac49630}
+      \strng{authorbibnamehash}{54b7d8c1de4a6cfab8ab3c06dac49630}
+      \strng{authornamehash}{54b7d8c1de4a6cfab8ab3c06dac49630}
+      \strng{authorfullhash}{54b7d8c1de4a6cfab8ab3c06dac49630}
+      \strng{editorbibnamehash}{8808be255d392b72f763e6836372da47}
+      \strng{editornamehash}{8808be255d392b72f763e6836372da47}
+      \strng{editorfullhash}{8808be255d392b72f763e6836372da47}
+      \field{extraname}{2}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Style and Sociolinguistic Variation}
+      \field{title}{Back in style: {R}eworking audience design. {S}tyle and sociolinguistic variaton}
+      \field{year}{2001}
+      \field{pages}{139\bibrangedash 169}
+      \range{pages}{31}
+    \endentry
+    \entry{Blommaert1999}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=994edc770bab19ce01d295bb82c114de}{%
+           family={Blommaert},
+           familyi={B\bibinitperiod},
+           given={Jan},
+           giveni={J\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=994edc770bab19ce01d295bb82c114de}{%
+           family={Blommaert},
+           familyi={B\bibinitperiod},
+           given={Jan},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Berlin}%
+      }
+      \list{publisher}{1}{%
+        {De Gruyter Mouton}%
+      }
+      \strng{namehash}{994edc770bab19ce01d295bb82c114de}
+      \strng{fullhash}{994edc770bab19ce01d295bb82c114de}
+      \strng{bibnamehash}{994edc770bab19ce01d295bb82c114de}
+      \strng{authorbibnamehash}{994edc770bab19ce01d295bb82c114de}
+      \strng{authornamehash}{994edc770bab19ce01d295bb82c114de}
+      \strng{authorfullhash}{994edc770bab19ce01d295bb82c114de}
+      \strng{editorbibnamehash}{994edc770bab19ce01d295bb82c114de}
+      \strng{editornamehash}{994edc770bab19ce01d295bb82c114de}
+      \strng{editorfullhash}{994edc770bab19ce01d295bb82c114de}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Language ideological debates}
+      \field{title}{The debate is open}
+      \field{year}{1999}
+      \field{pages}{1\bibrangedash 38}
+      \range{pages}{38}
+    \endentry
+    \entry{Cameron1995}{book}{}
+      \name{author}{1}{}{%
+        {{hash=c2a12aa2169771abc56d6f3fcb83c871}{%
+           family={Cameron},
+           familyi={C\bibinitperiod},
+           given={Deborah},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {London: Routledge}%
+      }
+      \strng{namehash}{c2a12aa2169771abc56d6f3fcb83c871}
+      \strng{fullhash}{c2a12aa2169771abc56d6f3fcb83c871}
+      \strng{bibnamehash}{c2a12aa2169771abc56d6f3fcb83c871}
+      \strng{authorbibnamehash}{c2a12aa2169771abc56d6f3fcb83c871}
+      \strng{authornamehash}{c2a12aa2169771abc56d6f3fcb83c871}
+      \strng{authorfullhash}{c2a12aa2169771abc56d6f3fcb83c871}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Verbal hygiene}
+      \field{year}{1995}
+    \endentry
+    \entry{Condemi2006}{book}{}
+      \name{author}{1}{}{%
+        {{hash=c50af227fbc499d7c26865bb2f50c8b1}{%
+           family={Condemi},
+           familyi={C\bibinitperiod},
+           given={Filippo},
+           giveni={F\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Vocabolario fraseologico. Reggio Calabria}%
+      }
+      \list{publisher}{1}{%
+        {Edizioni Ellenofoni di Calabria}%
+      }
+      \strng{namehash}{c50af227fbc499d7c26865bb2f50c8b1}
+      \strng{fullhash}{c50af227fbc499d7c26865bb2f50c8b1}
+      \strng{bibnamehash}{c50af227fbc499d7c26865bb2f50c8b1}
+      \strng{authorbibnamehash}{c50af227fbc499d7c26865bb2f50c8b1}
+      \strng{authornamehash}{c50af227fbc499d7c26865bb2f50c8b1}
+      \strng{authorfullhash}{c50af227fbc499d7c26865bb2f50c8b1}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{La} lingua della valle dell’Amendolea}
+      \field{year}{2006}
+    \endentry
+    \entry{Costa2015}{book}{}
+      \name{author}{1}{}{%
+        {{hash=58f21f9305193a7cf6fdf60bbb9eb35b}{%
+           family={Costa},
+           familyi={C\bibinitperiod},
+           given={James},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {De Gruyter Mouton}%
+      }
+      \strng{namehash}{58f21f9305193a7cf6fdf60bbb9eb35b}
+      \strng{fullhash}{58f21f9305193a7cf6fdf60bbb9eb35b}
+      \strng{bibnamehash}{58f21f9305193a7cf6fdf60bbb9eb35b}
+      \strng{authorbibnamehash}{58f21f9305193a7cf6fdf60bbb9eb35b}
+      \strng{authornamehash}{58f21f9305193a7cf6fdf60bbb9eb35b}
+      \strng{authorfullhash}{58f21f9305193a7cf6fdf60bbb9eb35b}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of the Sociology of Language}
+      \field{number}{231}
+      \field{title}{New speakers, new language: {O}n being a legitimate speaker of a minority language in Provence}
+      \field{volume}{2015}
+      \field{year}{2015}
+      \field{pages}{127\bibrangedash 145}
+      \range{pages}{19}
+    \endentry
+    \entry{Dorian1981}{book}{}
+      \name{author}{1}{}{%
+        {{hash=e8d72581b6c831d41b670c389f856c91}{%
+           family={Dorian},
+           familyi={D\bibinitperiod},
+           given={Nancy},
+           giveni={N\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Philadelphia}%
+      }
+      \list{publisher}{1}{%
+        {University of Pennsylvania Press}%
+      }
+      \strng{namehash}{e8d72581b6c831d41b670c389f856c91}
+      \strng{fullhash}{e8d72581b6c831d41b670c389f856c91}
+      \strng{bibnamehash}{e8d72581b6c831d41b670c389f856c91}
+      \strng{authorbibnamehash}{e8d72581b6c831d41b670c389f856c91}
+      \strng{authornamehash}{e8d72581b6c831d41b670c389f856c91}
+      \strng{authorfullhash}{e8d72581b6c831d41b670c389f856c91}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Language death: {{T}}he life cycle of a {Scottish} {Gaelic} dialect}
+      \field{year}{1981}
+    \endentry
+    \entry{Falcone1973}{book}{}
+      \name{author}{1}{}{%
+        {{hash=0e02d5a9c36697cd4cd9c399a3bf4834}{%
+           family={Falcone},
+           familyi={F\bibinitperiod},
+           given={Giuseppe},
+           giveni={G\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Milan}%
+      }
+      \list{publisher}{1}{%
+        {Istituto Lombardo di Scienze e Lettere}%
+      }
+      \strng{namehash}{0e02d5a9c36697cd4cd9c399a3bf4834}
+      \strng{fullhash}{0e02d5a9c36697cd4cd9c399a3bf4834}
+      \strng{bibnamehash}{0e02d5a9c36697cd4cd9c399a3bf4834}
+      \strng{authorbibnamehash}{0e02d5a9c36697cd4cd9c399a3bf4834}
+      \strng{authornamehash}{0e02d5a9c36697cd4cd9c399a3bf4834}
+      \strng{authorfullhash}{0e02d5a9c36697cd4cd9c399a3bf4834}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Il dialetto romaico della Bovesìa}
+      \field{year}{1973}
+    \endentry
+    \entry{Fanciullo2001a}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=80bfda8108c05a8a97ba46d010ac5e4f}{%
+           family={Fanciullo},
+           familyi={F\bibinitperiod},
+           given={Franco},
+           giveni={F\bibinitperiod}}}%
+      }
+      \name{editor}{3}{}{%
+        {{hash=0fd13ebf1dd978ffd097f0acb78fd576}{%
+           family={Janse},
+           familyi={J\bibinitperiod},
+           given={Mark},
+           giveni={M\bibinitperiod}}}%
+        {{hash=20f6a815556f9e6597e0481b8660b983}{%
+           family={Joseph},
+           familyi={J\bibinitperiod},
+           given={Brian},
+           giveni={B\bibinitperiod}}}%
+        {{hash=16455112c4db7807576e663af8d160e4}{%
+           family={Ralli},
+           familyi={R\bibinitperiod},
+           given={Angela},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Patras}%
+      }
+      \list{publisher}{1}{%
+        {Unversity of Patras}%
+      }
+      \strng{namehash}{80bfda8108c05a8a97ba46d010ac5e4f}
+      \strng{fullhash}{80bfda8108c05a8a97ba46d010ac5e4f}
+      \strng{bibnamehash}{80bfda8108c05a8a97ba46d010ac5e4f}
+      \strng{authorbibnamehash}{80bfda8108c05a8a97ba46d010ac5e4f}
+      \strng{authornamehash}{80bfda8108c05a8a97ba46d010ac5e4f}
+      \strng{authorfullhash}{80bfda8108c05a8a97ba46d010ac5e4f}
+      \strng{editorbibnamehash}{ebc9fc799fc7ea9c407f95e2c0025c87}
+      \strng{editornamehash}{4a063e3e4e7486cd82c62aef44fabe89}
+      \strng{editorfullhash}{ebc9fc799fc7ea9c407f95e2c0025c87}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 2nd International Conference on Modern {Greek} Dialects and Linguistic Theory}
+      \field{title}{On the origins of Modern {Greek} in {Southern} {Italy}}
+      \field{year}{2001}
+      \field{pages}{67\bibrangedash 77}
+      \range{pages}{11}
+    \endentry
+    \entry{fishman1991}{book}{}
+      \name{author}{1}{}{%
+        {{hash=eee6936189be13ccf27fb5926c8c1773}{%
+           family={Fishman},
+           familyi={F\bibinitperiod},
+           given={Joshua\bibnamedelima A},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Multilingual matters}%
+      }
+      \strng{namehash}{eee6936189be13ccf27fb5926c8c1773}
+      \strng{fullhash}{eee6936189be13ccf27fb5926c8c1773}
+      \strng{bibnamehash}{eee6936189be13ccf27fb5926c8c1773}
+      \strng{authorbibnamehash}{eee6936189be13ccf27fb5926c8c1773}
+      \strng{authornamehash}{eee6936189be13ccf27fb5926c8c1773}
+      \strng{authorfullhash}{eee6936189be13ccf27fb5926c8c1773}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Reversing language shift: {T}heoretical and empirical foundations of assistance to threatened languages}
+      \field{volume}{76}
+      \field{year}{1991}
+    \endentry
+    \entry{Karanastasis1984}{book}{}
+      \name{author}{1}{}{%
+        {{hash=542f7bb0fc252f8da6412e360a771e7d}{%
+           family={Karanastasis},
+           familyi={K\bibinitperiod},
+           given={Anastasios},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Athens}%
+      }
+      \list{publisher}{1}{%
+        {Academy of Athens}%
+      }
+      \strng{namehash}{542f7bb0fc252f8da6412e360a771e7d}
+      \strng{fullhash}{542f7bb0fc252f8da6412e360a771e7d}
+      \strng{bibnamehash}{542f7bb0fc252f8da6412e360a771e7d}
+      \strng{authorbibnamehash}{542f7bb0fc252f8da6412e360a771e7d}
+      \strng{authornamehash}{542f7bb0fc252f8da6412e360a771e7d}
+      \strng{authorfullhash}{542f7bb0fc252f8da6412e360a771e7d}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Ιστορικόν λεξικόν των ελληνικών ιδιωμάτων της Κάτω Ιταλίας}
+      \field{year}{1984}
+    \endentry
+    \entry{Katsoyannou2017}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=1e6733880b2aae25d2a77592673241fe}{%
+           family={Katsoyannou},
+           familyi={K\bibinitperiod},
+           given={Marianna},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{1e6733880b2aae25d2a77592673241fe}
+      \strng{fullhash}{1e6733880b2aae25d2a77592673241fe}
+      \strng{bibnamehash}{1e6733880b2aae25d2a77592673241fe}
+      \strng{authorbibnamehash}{1e6733880b2aae25d2a77592673241fe}
+      \strng{authornamehash}{1e6733880b2aae25d2a77592673241fe}
+      \strng{authorfullhash}{1e6733880b2aae25d2a77592673241fe}
+      \field{extraname}{1}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{https://sarantakos.wordpress.com/2017/05/22/magnapotemkin/.}
+      \field{title}{Οι Ποτέμκιν της Μεγάλης Ελλάδας}
+      \field{year}{2017}
+    \endentry
+    \entry{Katsoyannou1995}{thesis}{}
+      \name{author}{1}{}{%
+        {{hash=e251d0d88c682fe97de5c73134027321}{%
+           family={Katsoyannou},
+           familyi={K\bibinitperiod},
+           given={Marianne},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Paris 7}%
+      }
+      \strng{namehash}{e251d0d88c682fe97de5c73134027321}
+      \strng{fullhash}{e251d0d88c682fe97de5c73134027321}
+      \strng{bibnamehash}{e251d0d88c682fe97de5c73134027321}
+      \strng{authorbibnamehash}{e251d0d88c682fe97de5c73134027321}
+      \strng{authornamehash}{e251d0d88c682fe97de5c73134027321}
+      \strng{authorfullhash}{e251d0d88c682fe97de5c73134027321}
+      \field{extraname}{2}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Le parler gréco de {G}allicianò ({I}talie): {D}escription d'une langue en voie de disparition}
+      \field{type}{phdthesis}
+      \field{year}{1995}
+    \endentry
+    \entry{Martino1980}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=750f051b731b6099f7da3ab78a108349}{%
+           family={Martino},
+           familyi={M\bibinitperiod},
+           given={Paolo},
+           giveni={P\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=59aae7f968bf519d498b8bce45d248bb}{%
+           family={Leoni},
+           familyi={L\bibinitperiod},
+           given={Federico\bibnamedelima Albano},
+           giveni={F\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Rome}%
+      }
+      \list{publisher}{1}{%
+        {Bulzoni}%
+      }
+      \strng{namehash}{750f051b731b6099f7da3ab78a108349}
+      \strng{fullhash}{750f051b731b6099f7da3ab78a108349}
+      \strng{bibnamehash}{750f051b731b6099f7da3ab78a108349}
+      \strng{authorbibnamehash}{750f051b731b6099f7da3ab78a108349}
+      \strng{authornamehash}{750f051b731b6099f7da3ab78a108349}
+      \strng{authorfullhash}{750f051b731b6099f7da3ab78a108349}
+      \strng{editorbibnamehash}{59aae7f968bf519d498b8bce45d248bb}
+      \strng{editornamehash}{59aae7f968bf519d498b8bce45d248bb}
+      \strng{editorfullhash}{59aae7f968bf519d498b8bce45d248bb}
+      \field{extraname}{1}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{I dialetti e le lingue delle minoranze di fronte all’italiano: {{A}}tti del {XI} Congresso Internazionale di Studi}
+      \field{title}{L’isola grecanica dell’Aspromonte: {{A}}spetti sociolinguistici}
+      \field{year}{1980}
+      \field{pages}{305\bibrangedash 341}
+      \range{pages}{37}
+    \endentry
+    \entry{Martino2009}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=750f051b731b6099f7da3ab78a108349}{%
+           family={Martino},
+           familyi={M\bibinitperiod},
+           given={Paolo},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Italy}%
+      }
+      \list{publisher}{1}{%
+        {Bulzoni Editore}%
+      }
+      \strng{namehash}{750f051b731b6099f7da3ab78a108349}
+      \strng{fullhash}{750f051b731b6099f7da3ab78a108349}
+      \strng{bibnamehash}{750f051b731b6099f7da3ab78a108349}
+      \strng{authorbibnamehash}{750f051b731b6099f7da3ab78a108349}
+      \strng{authornamehash}{750f051b731b6099f7da3ab78a108349}
+      \strng{authorfullhash}{750f051b731b6099f7da3ab78a108349}
+      \field{extraname}{2}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Alloglossie e comunità alloglotte nell’{Italia} contemporanea: {T}eorie, applicazioni e descrizioni, prospettive, atti del {XLI} Congresso internazionale di studi della società linguistica italiana ({SLI})}
+      \field{note}{Consultato 21 aprile 2020. https://doi.org/10.95.}
+      \field{title}{L’affaire Bovesía: {U}n singolare irredentismo}
+      \field{year}{2009}
+    \endentry
+    \entry{RourkeRamallo2013}{article}{}
+      \name{author}{2}{}{%
+        {{hash=69a0cce6a9416cdf583fa935b393a464}{%
+           family={O'Rourke},
+           familyi={O\bibinitperiod},
+           given={Bernadette},
+           giveni={B\bibinitperiod}}}%
+        {{hash=6950c99f4213044c07022a82533c9c32}{%
+           family={Ramallo},
+           familyi={R\bibinitperiod},
+           given={Fernando},
+           giveni={F\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{bd69c0309ac7e97126020875618b0e9e}
+      \strng{fullhash}{bd69c0309ac7e97126020875618b0e9e}
+      \strng{bibnamehash}{bd69c0309ac7e97126020875618b0e9e}
+      \strng{authorbibnamehash}{bd69c0309ac7e97126020875618b0e9e}
+      \strng{authornamehash}{bd69c0309ac7e97126020875618b0e9e}
+      \strng{authorfullhash}{bd69c0309ac7e97126020875618b0e9e}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Language in Society}
+      \field{number}{3}
+      \field{title}{Competing ideologies of linguistic authority amongst new speakers in contemporary Galicia}
+      \field{volume}{42}
+      \field{year}{2013}
+      \field{pages}{287\bibrangedash 305}
+      \range{pages}{19}
+    \endentry
+    \entry{Pellegrino2013}{thesis}{}
+      \name{author}{1}{}{%
+        {{hash=bf23e14cb33a2292af80418c3c88e2a9}{%
+           family={Pellegrino},
+           familyi={P\bibinitperiod},
+           given={Manuela},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {University College London}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \strng{namehash}{bf23e14cb33a2292af80418c3c88e2a9}
+      \strng{fullhash}{bf23e14cb33a2292af80418c3c88e2a9}
+      \strng{bibnamehash}{bf23e14cb33a2292af80418c3c88e2a9}
+      \strng{authorbibnamehash}{bf23e14cb33a2292af80418c3c88e2a9}
+      \strng{authornamehash}{bf23e14cb33a2292af80418c3c88e2a9}
+      \strng{authorfullhash}{bf23e14cb33a2292af80418c3c88e2a9}
+      \field{extraname}{1}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{“{D}ying” language or “living monument”?: {{L}}anguage ideologies, practices and policies in the case of {G}riko}
+      \field{type}{phdthesis}
+      \field{year}{2013}
+    \endentry
+    \entry{Pellegrino2015}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=bf23e14cb33a2292af80418c3c88e2a9}{%
+           family={Pellegrino},
+           familyi={P\bibinitperiod},
+           given={Manuela},
+           giveni={M\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=4d534d3a7f38b75b522843d2aea8bcd8}{%
+           family={Azzaroni},
+           familyi={A\bibinitperiod},
+           given={Giovanni},
+           giveni={G\bibinitperiod}}}%
+        {{hash=f84a65d8e38f698ecc483cc3ed9e7852}{%
+           family={Casari},
+           familyi={C\bibinitperiod},
+           given={Matteo},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Martano}%
+      }
+      \list{publisher}{1}{%
+        {Kurumuny}%
+      }
+      \strng{namehash}{bf23e14cb33a2292af80418c3c88e2a9}
+      \strng{fullhash}{bf23e14cb33a2292af80418c3c88e2a9}
+      \strng{bibnamehash}{bf23e14cb33a2292af80418c3c88e2a9}
+      \strng{authorbibnamehash}{bf23e14cb33a2292af80418c3c88e2a9}
+      \strng{authornamehash}{bf23e14cb33a2292af80418c3c88e2a9}
+      \strng{authorfullhash}{bf23e14cb33a2292af80418c3c88e2a9}
+      \strng{editorbibnamehash}{19ef27a0b3ee24b8fc5c87e77bcea4c1}
+      \strng{editornamehash}{19ef27a0b3ee24b8fc5c87e77bcea4c1}
+      \strng{editorfullhash}{19ef27a0b3ee24b8fc5c87e77bcea4c1}
+      \field{extraname}{2}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Raccontare la {G}recìa: {U}na ricerca antropologica nelle memorie del {S}alento {G}riko}
+      \field{title}{I glossa grika: {I}ttè ce avri—La lingua greco-salentina tra passato e futuro}
+      \field{year}{2015}
+      \field{pages}{515\bibrangedash 547}
+      \range{pages}{33}
+    \endentry
+    \entry{Pellegrino2016b}{article}{}
+      \name{author}{1}{}{%
+        {{hash=bf23e14cb33a2292af80418c3c88e2a9}{%
+           family={Pellegrino},
+           familyi={P\bibinitperiod},
+           given={Manuela},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{bf23e14cb33a2292af80418c3c88e2a9}
+      \strng{fullhash}{bf23e14cb33a2292af80418c3c88e2a9}
+      \strng{bibnamehash}{bf23e14cb33a2292af80418c3c88e2a9}
+      \strng{authorbibnamehash}{bf23e14cb33a2292af80418c3c88e2a9}
+      \strng{authornamehash}{bf23e14cb33a2292af80418c3c88e2a9}
+      \strng{authorfullhash}{bf23e14cb33a2292af80418c3c88e2a9}
+      \field{extraname}{3}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{journaltitle}{Performing {G}riko beyond ‘death.’ Palaver}
+      \field{number}{1}
+      \field{volume}{5}
+      \field{year}{2016}
+      \field{pages}{137\bibrangedash 162}
+      \range{pages}{26}
+    \endentry
+    \entry{Pellegrino2016a}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=bf23e14cb33a2292af80418c3c88e2a9}{%
+           family={Pellegrino},
+           familyi={P\bibinitperiod},
+           given={Manuela},
+           giveni={M\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=2be84faf8fe2973c71066c38bf18c6c0}{%
+           family={Carluccio},
+           familyi={C\bibinitperiod},
+           given={Cirino},
+           giveni={C\bibinitperiod}}}%
+        {{hash=bf23e14cb33a2292af80418c3c88e2a9}{%
+           family={Pellegrino},
+           familyi={P\bibinitperiod},
+           given={Manuela},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Martano}%
+      }
+      \list{publisher}{1}{%
+        {Kurumuny}%
+      }
+      \strng{namehash}{bf23e14cb33a2292af80418c3c88e2a9}
+      \strng{fullhash}{bf23e14cb33a2292af80418c3c88e2a9}
+      \strng{bibnamehash}{bf23e14cb33a2292af80418c3c88e2a9}
+      \strng{authorbibnamehash}{bf23e14cb33a2292af80418c3c88e2a9}
+      \strng{authornamehash}{bf23e14cb33a2292af80418c3c88e2a9}
+      \strng{authorfullhash}{bf23e14cb33a2292af80418c3c88e2a9}
+      \strng{editorbibnamehash}{39e3ab1a36367f64829c9f77691c2728}
+      \strng{editornamehash}{39e3ab1a36367f64829c9f77691c2728}
+      \strng{editorfullhash}{39e3ab1a36367f64829c9f77691c2728}
+      \field{extraname}{4}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Topos=logos, {La} vita dei luoghi}
+      \field{title}{I toponimi griki e le ideologie linguistiche riguardanti il griko}
+      \field{year}{2016}
+      \field{pages}{13\bibrangedash 28}
+      \range{pages}{16}
+    \endentry
+    \entry{Pellegrino2021}{book}{}
+      \name{author}{1}{}{%
+        {{hash=bf23e14cb33a2292af80418c3c88e2a9}{%
+           family={Pellegrino},
+           familyi={P\bibinitperiod},
+           given={Manuela},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Washington {DC}}%
+      }
+      \list{publisher}{1}{%
+        {Center for Hellenic Studies}%
+      }
+      \strng{namehash}{bf23e14cb33a2292af80418c3c88e2a9}
+      \strng{fullhash}{bf23e14cb33a2292af80418c3c88e2a9}
+      \strng{bibnamehash}{bf23e14cb33a2292af80418c3c88e2a9}
+      \strng{authorbibnamehash}{bf23e14cb33a2292af80418c3c88e2a9}
+      \strng{authornamehash}{bf23e14cb33a2292af80418c3c88e2a9}
+      \strng{authorfullhash}{bf23e14cb33a2292af80418c3c88e2a9}
+      \field{extraname}{5}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Greek Language, {I}talian Landscape: {G}riko and the Re-storying of a Linguistic Minority}
+      \field{year}{2021}
+      \verb{urlraw}
+      \verb https://chs.harvard.edu/book/greek-language-italian-landscape-griko-and-the-re-storying-of-a-linguistic-minority/
+      \endverb
+      \verb{url}
+      \verb https://chs.harvard.edu/book/greek-language-italian-landscape-griko-and-the-re-storying-of-a-linguistic-minority/
+      \endverb
+    \endentry
+    \entry{pellegrino2022agency}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=bf23e14cb33a2292af80418c3c88e2a9}{%
+           family={Pellegrino},
+           familyi={P\bibinitperiod},
+           given={Manuela},
+           giveni={M\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=7a5f44547c13658949d482be4d016102}{%
+           family={Linn},
+           familyi={L\bibinitperiod},
+           given={M.S.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=a7760d7bbca4e1193abf3c3a4d47d6da}{%
+           family={Dayán-Fernández},
+           familyi={D\bibinithyphendelim F\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{bf23e14cb33a2292af80418c3c88e2a9}
+      \strng{fullhash}{bf23e14cb33a2292af80418c3c88e2a9}
+      \strng{bibnamehash}{bf23e14cb33a2292af80418c3c88e2a9}
+      \strng{authorbibnamehash}{bf23e14cb33a2292af80418c3c88e2a9}
+      \strng{authornamehash}{bf23e14cb33a2292af80418c3c88e2a9}
+      \strng{authorfullhash}{bf23e14cb33a2292af80418c3c88e2a9}
+      \strng{editorbibnamehash}{0a4cb2fe2fcda1490a3a2e0971af19ef}
+      \strng{editornamehash}{0a4cb2fe2fcda1490a3a2e0971af19ef}
+      \strng{editorfullhash}{0a4cb2fe2fcda1490a3a2e0971af19ef}
+      \field{extraname}{6}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{The Periphery as Centre: {E}xamining Social Actors and Agency in {E}uropean Language Reclamation, Multilingual Matters}
+      \field{note}{Manuscript submitted for publication}
+      \field{title}{“{I} was there": {A}gency, Authority and Morality among the {G}riko linguistic minority of {S}outhern {I}taly ({A}pulia)}
+      \field{year}{2022}
+    \endentry
+    \entry{Petropoulou1992}{book}{}
+      \name{author}{1}{}{%
+        {{hash=16a03399cc1f5a506188a5ed35c18d5a}{%
+           family={Petropoulou},
+           familyi={P\bibinitperiod},
+           given={Christina},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Aspetti linguistici e culturali}%
+      }
+      \strng{namehash}{16a03399cc1f5a506188a5ed35c18d5a}
+      \strng{fullhash}{16a03399cc1f5a506188a5ed35c18d5a}
+      \strng{bibnamehash}{16a03399cc1f5a506188a5ed35c18d5a}
+      \strng{authorbibnamehash}{16a03399cc1f5a506188a5ed35c18d5a}
+      \strng{authornamehash}{16a03399cc1f5a506188a5ed35c18d5a}
+      \strng{authorfullhash}{16a03399cc1f5a506188a5ed35c18d5a}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Archivio storico per la Calabria e la Lucania LIX. 153–170.}
+      \field{title}{Lingua e dialetto nella {G}recìa {C}alabrese}
+      \field{year}{1992}
+    \endentry
+    \entry{Pipyrou2016}{book}{}
+      \name{author}{1}{}{%
+        {{hash=5537005d309987e68fefd6cb2ab979a5}{%
+           family={Pipyrou},
+           familyi={P\bibinitperiod},
+           given={Stavroula},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Philadelphia}%
+      }
+      \list{publisher}{1}{%
+        {University of Pennsylvania Press}%
+      }
+      \strng{namehash}{5537005d309987e68fefd6cb2ab979a5}
+      \strng{fullhash}{5537005d309987e68fefd6cb2ab979a5}
+      \strng{bibnamehash}{5537005d309987e68fefd6cb2ab979a5}
+      \strng{authorbibnamehash}{5537005d309987e68fefd6cb2ab979a5}
+      \strng{authornamehash}{5537005d309987e68fefd6cb2ab979a5}
+      \strng{authorfullhash}{5537005d309987e68fefd6cb2ab979a5}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The {G}recanici of {Southern} {Italy}: {{G}}overnance, violence, and minority politics}
+      \field{year}{2016}
+    \endentry
+    \entry{Rampton1995}{book}{}
+      \name{author}{1}{}{%
+        {{hash=41b5548be2a4dff9ec170ae4196489ad}{%
+           family={Rampton},
+           familyi={R\bibinitperiod},
+           given={Ben},
+           giveni={B\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \list{publisher}{1}{%
+        {Longman}%
+      }
+      \strng{namehash}{41b5548be2a4dff9ec170ae4196489ad}
+      \strng{fullhash}{41b5548be2a4dff9ec170ae4196489ad}
+      \strng{bibnamehash}{41b5548be2a4dff9ec170ae4196489ad}
+      \strng{authorbibnamehash}{41b5548be2a4dff9ec170ae4196489ad}
+      \strng{authornamehash}{41b5548be2a4dff9ec170ae4196489ad}
+      \strng{authorfullhash}{41b5548be2a4dff9ec170ae4196489ad}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Crossing: {{L}}anguage and ethnicity among adolescents}
+      \field{year}{1995}
+    \endentry
+    \entry{Rohlfs1924}{book}{}
+      \name{author}{1}{}{%
+        {{hash=eb4df374fa44a006d17d8c6c5dbe2e89}{%
+           family={Rohlfs},
+           familyi={R\bibinitperiod},
+           given={Gerhard},
+           giveni={G\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {LS Olschki}%
+      }
+      \strng{namehash}{eb4df374fa44a006d17d8c6c5dbe2e89}
+      \strng{fullhash}{eb4df374fa44a006d17d8c6c5dbe2e89}
+      \strng{bibnamehash}{eb4df374fa44a006d17d8c6c5dbe2e89}
+      \strng{authorbibnamehash}{eb4df374fa44a006d17d8c6c5dbe2e89}
+      \strng{authornamehash}{eb4df374fa44a006d17d8c6c5dbe2e89}
+      \strng{authorfullhash}{eb4df374fa44a006d17d8c6c5dbe2e89}
+      \field{extraname}{1}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Griechen und Romanen in Unteritalien}
+      \field{title}{Griechen und Romanen in Unteritalien: ein Beitrag zur Geschichte der unteritalienischen Gräzität}
+      \field{year}{1924}
+      \field{pages}{1\bibrangedash 177}
+      \range{pages}{177}
+    \endentry
+    \entry{Rohlfs1974}{article}{}
+      \name{author}{1}{}{%
+        {{hash=eb4df374fa44a006d17d8c6c5dbe2e89}{%
+           family={Rohlfs},
+           familyi={R\bibinitperiod},
+           given={Gerhard},
+           giveni={G\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Congedo Editore}%
+      }
+      \strng{namehash}{eb4df374fa44a006d17d8c6c5dbe2e89}
+      \strng{fullhash}{eb4df374fa44a006d17d8c6c5dbe2e89}
+      \strng{bibnamehash}{eb4df374fa44a006d17d8c6c5dbe2e89}
+      \strng{authorbibnamehash}{eb4df374fa44a006d17d8c6c5dbe2e89}
+      \strng{authornamehash}{eb4df374fa44a006d17d8c6c5dbe2e89}
+      \strng{authorfullhash}{eb4df374fa44a006d17d8c6c5dbe2e89}
+      \field{extraname}{2}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Galatina (Puglia)}
+      \field{title}{Scavi linguistici nella Magna Grecia}
+      \field{year}{1974}
+    \endentry
+    \entry{Sallabank2017}{article}{}
+      \name{author}{1}{}{%
+        {{hash=f8f3655fa222ee039ac125a4255d0c26}{%
+           family={Sallabank},
+           familyi={S\bibinitperiod},
+           given={Julia},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{f8f3655fa222ee039ac125a4255d0c26}
+      \strng{fullhash}{f8f3655fa222ee039ac125a4255d0c26}
+      \strng{bibnamehash}{f8f3655fa222ee039ac125a4255d0c26}
+      \strng{authorbibnamehash}{f8f3655fa222ee039ac125a4255d0c26}
+      \strng{authornamehash}{f8f3655fa222ee039ac125a4255d0c26}
+      \strng{authorfullhash}{f8f3655fa222ee039ac125a4255d0c26}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{European Review}
+      \field{number}{1}
+      \field{title}{Purism, variation, change and ‘Authenticity’: {{I}}deological challenges to language revitalisation}
+      \field{volume}{26}
+      \field{year}{2017}
+      \field{pages}{164\bibrangedash 178}
+      \range{pages}{15}
+    \endentry
+    \entry{SallabankMarquis2018}{incollection}{}
+      \name{author}{2}{}{%
+        {{hash=f8f3655fa222ee039ac125a4255d0c26}{%
+           family={Sallabank},
+           familyi={S\bibinitperiod},
+           given={Julia},
+           giveni={J\bibinitperiod}}}%
+        {{hash=833640fa5f5ff47325093ddf214a3806}{%
+           family={Marquis},
+           familyi={M\bibinitperiod},
+           given={Yan},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=2c35565cd7990122849eb86d29993bce}{%
+           family={Hornsby},
+           familyi={H\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=140a30fdeafbeefe3c3326832b393b09}{%
+           family={Smith-Christmas},
+           familyi={S\bibinithyphendelim C\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Basingstoke}%
+      }
+      \list{publisher}{1}{%
+        {Palgrave Macmillan}%
+      }
+      \strng{namehash}{13b4c88cd8e91cf82cdbe5eaa5311590}
+      \strng{fullhash}{13b4c88cd8e91cf82cdbe5eaa5311590}
+      \strng{bibnamehash}{13b4c88cd8e91cf82cdbe5eaa5311590}
+      \strng{authorbibnamehash}{13b4c88cd8e91cf82cdbe5eaa5311590}
+      \strng{authornamehash}{13b4c88cd8e91cf82cdbe5eaa5311590}
+      \strng{authorfullhash}{13b4c88cd8e91cf82cdbe5eaa5311590}
+      \strng{editorbibnamehash}{efd9e14fa0d3f7d9c1f573a18495c8e6}
+      \strng{editornamehash}{efd9e14fa0d3f7d9c1f573a18495c8e6}
+      \strng{editorfullhash}{efd9e14fa0d3f7d9c1f573a18495c8e6}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{New speakers of minority languages: {{L}}inguistic ideologies and practices}
+      \field{title}{“{We} Don’t Say It like That”: {{L}}anguage ownership and (De)legitimising the new speaker of Guernesiais}
+      \field{year}{2018}
+      \field{pages}{67\bibrangedash 90}
+      \range{pages}{24}
+    \endentry
+    \entry{Sasse1992}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=89341a1a1096d9e84e0571927beb29c8}{%
+           family={Sasse},
+           familyi={S\bibinitperiod},
+           given={Hans-Jürgen},
+           giveni={H\bibinithyphendelim J\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=30cb6275c256ed8452ff5efb809c599d}{%
+           family={Brenzinger},
+           familyi={B\bibinitperiod},
+           given={Matthias},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Berlin}%
+      }
+      \list{publisher}{1}{%
+        {De Gruyter Mouton}%
+      }
+      \strng{namehash}{89341a1a1096d9e84e0571927beb29c8}
+      \strng{fullhash}{89341a1a1096d9e84e0571927beb29c8}
+      \strng{bibnamehash}{89341a1a1096d9e84e0571927beb29c8}
+      \strng{authorbibnamehash}{89341a1a1096d9e84e0571927beb29c8}
+      \strng{authornamehash}{89341a1a1096d9e84e0571927beb29c8}
+      \strng{authorfullhash}{89341a1a1096d9e84e0571927beb29c8}
+      \strng{editorbibnamehash}{30cb6275c256ed8452ff5efb809c599d}
+      \strng{editornamehash}{30cb6275c256ed8452ff5efb809c599d}
+      \strng{editorfullhash}{30cb6275c256ed8452ff5efb809c599d}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Language death: {{F}}actual and theoretical explanations with special reference to {East} {Africa}}
+      \field{title}{Language decay and contact-induced change: {{S}}imilarities and differences}
+      \field{year}{1992}
+      \field{pages}{59\bibrangedash 80}
+      \range{pages}{22}
+    \endentry
+    \entry{Squillaci2018}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=0dbdabc95de0b95cc8635f880727f763}{%
+           family={Squillaci},
+           familyi={S\bibinitperiod},
+           given={Maria\bibnamedelima Olimpia},
+           giveni={M\bibinitperiod\bibinitdelim O\bibinitperiod}}}%
+      }
+      \strng{namehash}{0dbdabc95de0b95cc8635f880727f763}
+      \strng{fullhash}{0dbdabc95de0b95cc8635f880727f763}
+      \strng{bibnamehash}{0dbdabc95de0b95cc8635f880727f763}
+      \strng{authorbibnamehash}{0dbdabc95de0b95cc8635f880727f763}
+      \strng{authornamehash}{0dbdabc95de0b95cc8635f880727f763}
+      \strng{authorfullhash}{0dbdabc95de0b95cc8635f880727f763}
+      \field{extraname}{1}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Paper presented at the conference `Political Logic of Mediterranean Landscapes', University of Notre Dame, Rome.}
+      \field{title}{Weaving identities through language}
+      \field{year}{2018}
+    \endentry
+    \entry{Squillaci2021}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=0dbdabc95de0b95cc8635f880727f763}{%
+           family={Squillaci},
+           familyi={S\bibinitperiod},
+           given={Maria\bibnamedelima Olimpia},
+           giveni={M\bibinitperiod\bibinitdelim O\bibinitperiod}}}%
+      }
+      \strng{namehash}{0dbdabc95de0b95cc8635f880727f763}
+      \strng{fullhash}{0dbdabc95de0b95cc8635f880727f763}
+      \strng{bibnamehash}{0dbdabc95de0b95cc8635f880727f763}
+      \strng{authorbibnamehash}{0dbdabc95de0b95cc8635f880727f763}
+      \strng{authornamehash}{0dbdabc95de0b95cc8635f880727f763}
+      \strng{authorfullhash}{0dbdabc95de0b95cc8635f880727f763}
+      \field{extraname}{2}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{What’s left of Calabrian Greek and its speakers in 2021. (Paper presented at the MGDLT 9, Leonidio, 5-6 June 2021).}
+      \field{title}{From contact to ‘contamination’ and beyond}
+      \field{year}{2021}
+    \endentry
+    \entry{Squillaci-inprep}{report}{}
+      \name{author}{1}{}{%
+        {{hash=0dbdabc95de0b95cc8635f880727f763}{%
+           family={Squillaci},
+           familyi={S\bibinitperiod},
+           given={Maria\bibnamedelima Olimpia},
+           giveni={M\bibinitperiod\bibinitdelim O\bibinitperiod}}}%
+      }
+      \list{institution}{2}{%
+        {Center for Folklife}%
+        {Cultural Heritage, Smithsonian Institution}%
+      }
+      \strng{namehash}{0dbdabc95de0b95cc8635f880727f763}
+      \strng{fullhash}{0dbdabc95de0b95cc8635f880727f763}
+      \strng{bibnamehash}{0dbdabc95de0b95cc8635f880727f763}
+      \strng{authorbibnamehash}{0dbdabc95de0b95cc8635f880727f763}
+      \strng{authornamehash}{0dbdabc95de0b95cc8635f880727f763}
+      \strng{authorfullhash}{0dbdabc95de0b95cc8635f880727f763}
+      \field{extraname}{3}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{SMiLE Report}}
+      \field{type}{techreport}
+      \field{year}{in preparation}
+    \endentry
+    \entry{Stamuli2008}{thesis}{}
+      \name{author}{1}{}{%
+        {{hash=fbeee0e37e8857b1c385813cabeeba9f}{%
+           family={Stamuli},
+           familyi={S\bibinitperiod},
+           given={Francesca},
+           giveni={F\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Tre profili dalla bovesìa. Naples}%
+      }
+      \list{publisher}{1}{%
+        {Università degli Studi di Napoli ‘Federico II’}%
+      }
+      \strng{namehash}{fbeee0e37e8857b1c385813cabeeba9f}
+      \strng{fullhash}{fbeee0e37e8857b1c385813cabeeba9f}
+      \strng{bibnamehash}{fbeee0e37e8857b1c385813cabeeba9f}
+      \strng{authorbibnamehash}{fbeee0e37e8857b1c385813cabeeba9f}
+      \strng{authornamehash}{fbeee0e37e8857b1c385813cabeeba9f}
+      \strng{authorfullhash}{fbeee0e37e8857b1c385813cabeeba9f}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Morte di lingua e variazione lessicale nel greco di Calabria}
+      \field{type}{phdthesis}
+      \field{year}{2008}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

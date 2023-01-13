@@ -1,0 +1,17 @@
+[0] Config.pm:311> INFO - This is Biber 2.16
+[25] Config.pm:314> INFO - Logfile is 'Schaffel.blg'
+[92] biber:340> INFO - === Fri Dec 16, 2022, 12:50:06
+[105] Biber.pm:415> INFO - Reading 'Schaffel.bcf'
+[186] Biber.pm:952> INFO - Found 46 citekeys in bib section 0
+[199] Biber.pm:4340> INFO - Processing section 0
+[211] Biber.pm:4531> INFO - Looking for bibtex format file '../localbibliography.bib' for section 0
+[231] bibtex.pm:1689> INFO - LaTeX decoding ...
+[959] bibtex.pm:1494> INFO - Found BibTeX data source '../localbibliography.bib'
+[1218] Utils.pm:395> WARN - legacy year field '1910--1945' in entry 'Ginneken01' is not an integer - this will probably not sort properly.
+[1315] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1315] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1315] Biber.pm:4168> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'en-US'
+[1315] Biber.pm:4174> INFO - No sort tailoring available for locale 'en-US'
+[1359] bbl.pm:654> INFO - Writing 'Schaffel.bbl' with encoding 'UTF-8'
+[1383] bbl.pm:757> INFO - Output to Schaffel.bbl
+[1383] Biber.pm:128> INFO - WARNINGS: 1
